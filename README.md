@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from London</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javokhirbozorov&label=Profile%20views&color=0e75b6&style=flat" alt="javokhirbozorov" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javokhirbozorov" alt="javokhirbozorov" /></a> </p>
 
 - 🔭 I’m currently working on **Broccoli blog**
@@ -18,7 +17,7 @@
 <a href="https://linkedin.com/in/javokhir-bozorov-54a2331a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javokhir-bozorov-54a2331a6" height="30" width="40" /></a>
 <a href="https://fb.com/javakhir.bazarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="javakhir.bazarov" height="30" width="40" /></a>
 <a href="https://instagram.com/javokhir_bozorov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javokhir_bozorov" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc1tfybguoehuv9wrvmm4wyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc1tfybguoehuv9wrvmm4wyw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1TFYBGuOehUv9WrVmM4WYw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc1tfybguoehuv9wrvmm4wyw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
