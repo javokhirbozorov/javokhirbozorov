@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **Broccoli blog**
 
-- 🌱 I’m currently learning **Express**
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **javokhir.bozorov@gmail.com**
